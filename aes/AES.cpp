@@ -7,6 +7,14 @@
 // Copyright © 2026 Syn-Soft LTD. Все права защищены.
 // =============================================================================
 
+/*
+ * AES.cpp — AES (Rijndael) encryption implementation
+ * Copyright 2026 Syn-Soft LTD
+ *
+ * Licensed under the Apache License, Version 2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ */
+
 #include "AES.h"
 #include <cstring>
 #include <stdexcept>
